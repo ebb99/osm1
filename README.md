@@ -10,7 +10,7 @@
 <body>
   <div id="map" style="height:600px; width:100%"></div>
   <script>
-    var lng = 6.96147, lat = 49.229018, zoom = 13;
+    var lng = 13.453408, lat = 52.516701, zoom = 13;
     var map = L.map('map').setView([lat, lng], zoom);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
@@ -19,3 +19,4 @@
   </script>
 </body>
 </html>
+
