@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Einfaches Beispiel für das Einbinden einer OSM-Karte mit leaflet</title>
+  <title>Einfaches Beispiel 13.457/52.515/16</title>
   <meta charset="utf-8" />
   <link rel="stylesheet"
         href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
