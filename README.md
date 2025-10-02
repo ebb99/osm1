@@ -6,7 +6,7 @@
   <link rel="stylesheet"
         href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
-  <title>Schreinerei Meier, Dingenskirchen</title>
+  <title>Schreinerei Meier,in Dingenskirchen</title>
 </head>
 <body>
   <div id="map" style="height:600px; width:100%"></div>
